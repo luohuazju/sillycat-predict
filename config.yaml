@@ -1,0 +1,4 @@
+spark:
+ home : "/opt/spark"
+ server : "yarn-client" #master
+
